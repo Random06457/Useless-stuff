@@ -1,4 +1,8 @@
-1.0.2
+1.0.3
+[1.0.3]
+- Fixed Error while receiving data issue
+- Added option to edit client ID via the app
+
 [1.0.2]
 - Fixed support for other sysmodules
 - Fixed process whitelist
