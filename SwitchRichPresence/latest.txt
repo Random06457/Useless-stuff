@@ -7,7 +7,7 @@
 - Fixed support for other sysmodules
 - Fixed process whitelist
 
-[1.0.1] (Current)
+[1.0.1]
 - Fixed bug with FWs >= 5.x.x
 
 [1.0.0]
