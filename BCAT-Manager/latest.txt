@@ -1,4 +1,13 @@
 1.0.1
-Change Log :
+[1.0.2]
+- Added News support
+- Fixed AES-CTR (now two times faster)
+- Implemented Nintendo's exact request way
+- Added Settings
+- Removed some dependencies
+- Added MsgPack support without external library
+- Minor bug fixe
+
+[1.0.1]
 - Fixed Thread problems that made the app unusable.
 - Fixed a problem with a control.
